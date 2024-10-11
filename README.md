@@ -1,6 +1,6 @@
 Animation Checklist:
  - Walking: 25%
- - Sprinting: 25%
+ - Sprinting: 50%
  - Jump: 0%
  - Sprint Jump: 0%
  - Death: 0%
