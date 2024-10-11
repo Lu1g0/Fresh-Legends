@@ -1,11 +1,11 @@
 Animation Checklist:
- - Walking 25%
- - Sprinting 25%
- - Jump x
- - Sprint Jump x
- - Death x
- - Warrior x
- - Mage x
- - Assassin x
- - Archer x
- - Shaman x
+ - Walking: 25%
+ - Sprinting: 25%
+ - Jump: 0%
+ - Sprint Jump: 0%
+ - Death: 0%
+ - Warrior: 0%
+ - Mage: 0%
+ - Assassin: 0%
+ - Archer: 0%
+ - Shaman: 0%
