@@ -1,0 +1,12 @@
+Animation Checklist:
+ - Idle: 0% - Not Started
+ - Walk: 25% - Work in Progress
+ - Sprint: 100% - Complete!
+ - Jump: 0% - Work in Progress
+ - Landing: 0% - Not Started
+ - Death: 0% - Not Started
+ - Warrior: 0% - Not Started
+ - Mage: 0% - Not Started
+ - Assassin: 0% - Not Started
+ - Archer: 0% - Not Started
+ - Shaman: 0% - Not Started
