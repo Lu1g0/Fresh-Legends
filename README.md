@@ -1,7 +1,7 @@
 Animation Checklist:
  - Idle: 100% - Completed!
  - Walk: 100% - Completed!
- - Sprint: 100% - Complete!
+ - Sprint: 100% - Completed!
  - Sneak: 25% - Work in Progress
  - Crawl: 0% - Not Started
  - Swim: 0% - Not Started
