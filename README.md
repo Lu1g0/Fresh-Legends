@@ -1,7 +1,7 @@
 Animation Checklist:
  - Idle: 100% - Completed!
  - Walk: 100% - Completed!
- - Sprint: 0% - Animation Planned On Being Redone
+ - Sprint: 100% - Animation Planned On Being Redone
  - Sneak: 100% - Completed!
  - Jump: 50% - Work in Progress
  - Crawl: 0% - Not Started
