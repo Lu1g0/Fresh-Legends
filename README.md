@@ -1,11 +1,12 @@
 Animation Checklist:
  - Idle: 100% - Completed!
  - Walk: 100% - Completed!
- - Sprint: 100% - Completed!
- - Sneak: 100% - Work in Progress
+ - Sprint: 0% - Animation Being Redone
+ - Sneak: 100% - Completed!
+ - Jump: 50% - Work in Progress
  - Crawl: 0% - Not Started
  - Swim: 0% - Not Started
- - Jump: 50% - Work in Progress
+ - Climbing: 0% - Not Started
  - Falling: 0% - Not Started
  - Landing: 0% - Not Started
  - Death: 0% - Not Started
