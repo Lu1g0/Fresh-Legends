@@ -4,8 +4,8 @@ Animation Checklist:
  - Sprint: 100% - Completed! (Animation Planned On Being Redone)
  - Sneak: 100% - Completed!
  - Jump: 100% - Completed!
- - Crawl: 100% - Not Started
- - Swim: 0% - Not Started
+ - Crawl: 100% - Completed!
+ - Swim: 100% - Completed!
  - Climbing: 0% - Not Started
  - Falling: 0% - Not Started
  - Landing: 0% - Not Started
