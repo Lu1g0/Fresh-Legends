@@ -6,7 +6,7 @@ Animation Checklist:
  - Jump: 100% - Completed!
  - Crawl: 100% - Completed!
  - Swim: 100% - Completed!
- - Climbing: 0% - Not Started
+ - Climbing: 100% - Completed!
  - Falling: 0% - Not Started
  - Landing: 0% - Not Started
  - Death: 0% - Not Started
