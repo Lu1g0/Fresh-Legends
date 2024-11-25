@@ -7,8 +7,8 @@ Animation Checklist:
  - Crawl: 100% - Completed!
  - Swim: 100% - Completed!
  - Climbing: 100% - Completed!
- - Falling: 0% - Not Started
- - Landing: 0% - Not Started
+ - Falling: 100% - Completed!
+ - Landing: 10% - Started!
  - Death: 0% - Not Started
  - Warrior: 0% - Not Started
  - Mage: 0% - Not Started
