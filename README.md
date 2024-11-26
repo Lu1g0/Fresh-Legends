@@ -1,14 +1,14 @@
 Animation Checklist:
  - Idle: 100% - Completed!
  - Walk: 100% - Completed!
- - Sprint: 100% - Completed! (Animation Planned On Being Redone)
+ - Sprint: 100% - Completed! (Animation planned on being redone)
  - Sneak: 100% - Completed!
  - Jump: 100% - Completed!
  - Crawl: 100% - Completed!
  - Swim: 100% - Completed!
  - Climbing: 100% - Completed!
  - Falling: 100% - Completed!
- - Landing: 10% - Started!
+ - Landing: 100% - Completed! (Animation needs to be better)
  - Death: 0% - Not Started
  - Warrior: 0% - Not Started
  - Mage: 0% - Not Started
