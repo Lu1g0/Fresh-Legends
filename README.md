@@ -8,9 +8,9 @@ Animation Checklist:
  - Swim: 100% - Completed!
  - Climbing: 100% - Completed!
  - Falling: 100% - Completed!
- - Landing: 100% - Completed! (Animation needs to be better)
- - Death: 0% - Not Started
- - Warrior: 0% - Not Started
+ - Landing: 100% - Completed! (Animation needs to be cleaned up)
+ - Death: 75% - Work In Progess! (Need to add one more)
+ - Warrior: 0% - Started!
  - Mage: 0% - Not Started
  - Assassin: 0% - Not Started
  - Archer: 0% - Not Started
